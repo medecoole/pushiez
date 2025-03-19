@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "minecraft:brown_dye"
+    },
+    {
+      "item": "plushiez:plushie_base"
+    }
+  ],
+  "result": {
+    "id": "plushiez:villager_plushie",
+    "count": 1
+  }
+}

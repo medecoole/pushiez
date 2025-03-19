@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:orange_dye"
+    },
+    {
+      "item": "minecraft:purple_dye"
+    },
+    {
+      "item": "plushiez:plushie_base"
+    }
+  ],
+  "result": {
+    "id": "plushiez:luxintrus_plushie",
+    "count": 1
+  }
+}

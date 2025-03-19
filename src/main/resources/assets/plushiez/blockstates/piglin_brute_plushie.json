@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "plushiez:block/piglin_brute_plushie" },
+    "facing=east": { "model": "plushiez:block/piglin_brute_plushie", "y": 90 },
+    "facing=south": { "model": "plushiez:block/piglin_brute_plushie", "y": 180 },
+    "facing=west": { "model": "plushiez:block/piglin_brute_plushie", "y": 270 }
+  }
+}

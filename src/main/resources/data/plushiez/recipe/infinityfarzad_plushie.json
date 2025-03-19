@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:brown_dye"
+    },
+    {
+      "item": "minecraft:green_dye"
+    },
+    {
+      "item": "minecraft:cyan_dye"
+    },
+    {
+      "item": "plushiez:plushie_base"
+    }
+  ],
+  "result": {
+    "id": "plushiez:infinityfarzad_plushie",
+    "count": 1
+  }
+}

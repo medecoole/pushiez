@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:porkchop"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:brown_dye"
+    },
+    {
+      "item": "plushiez:plushie_base"
+    }
+  ],
+  "result": {
+    "id": "plushiez:piglin_plushie",
+    "count": 1
+  }
+}

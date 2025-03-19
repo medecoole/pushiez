@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#W",
+    "W#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:feather"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "result": {
+    "id": "plushiez:plushie_base",
+    "count": 1
+  }
+}

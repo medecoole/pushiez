@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "plushiez:block/glitch_plushie" },
+    "facing=east": { "model": "plushiez:block/glitch_plushie", "y": 90 },
+    "facing=south": { "model": "plushiez:block/glitch_plushie", "y": 180 },
+    "facing=west": { "model": "plushiez:block/glitch_plushie", "y": 270 }
+  }
+}

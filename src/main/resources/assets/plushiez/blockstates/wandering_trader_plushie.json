@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "plushiez:block/wandering_trader_plushie" },
+    "facing=east": { "model": "plushiez:block/wandering_trader_plushie", "y": 90 },
+    "facing=south": { "model": "plushiez:block/wandering_trader_plushie", "y": 180 },
+    "facing=west": { "model": "plushiez:block/wandering_trader_plushie", "y": 270 }
+  }
+}

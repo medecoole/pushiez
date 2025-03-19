@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:light_blue_dye"
+    },
+    {
+      "item": "minecraft:blue_dye"
+    },
+    {
+      "item": "minecraft:brown_dye"
+    },
+    {
+      "item": "plushiez:plushie_base"
+    }
+  ],
+  "result": {
+    "id": "plushiez:steve_plushie",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "block.plushiez.arthys_plushie": "Arthys Plushie",
+  "block.plushiez.plushie_base": "Basic Plushie",
+  "block.plushiez.missing_plushie": "NullReferenceException: Object reference not set to an instance of an object",
+  "block.plushiez.glitch_plushie": "lgtich uplesi",
+  "block.plushiez.val_plushie": "Val Plushie",
+  "block.plushiez.nethr_plushie": "Nethr Plushie",
+  "block.plushiez.doctor4t_plushie": "Doctor4t Plushie",
+  "block.plushiez.luxintrus_plushie": "Luxintrus Plushie",
+  "block.plushiez.winsweep_plushie": "Winsweep Plushie",
+  "block.plushiez.diansu_plushie": "Diansu Plushie",
+  "block.plushiez.talon_plushie": "Talon Plushie",
+  "block.plushiez.infinityfarzad_plushie": "InfinityFarzad Plushie",
+  "block.plushiez.drewsbones_plushie": "DrewsBones Plushie",
+  "block.plushiez.medecoole_plushie": "Medecoole Plushie",
+  "block.plushiez.steve_plushie": "Steve Plushie",
+  "block.plushiez.zombie_plushie": "Zombie Plushie",
+  "block.plushiez.warden_plushie": "Warden Plushie",
+
+  "block.plushiez.piglin_plushie": "Piglin Plushie",
+  "block.plushiez.piglin_brute_plushie": "Piglin Brute Plushie",
+
+  "block.plushiez.villager_plushie": "Villager Plushie",
+  "block.plushiez.librarian_villager_plushie": "Librarian Villager Plushie",
+  "block.plushiez.wandering_trader_plushie": "Wandering Trader Plushie",
+
+
+
+  "itemgroup.plushiez": "Plushiez",
+  "resourcepack.plushiez.no-layers": "No Layers"
+}
